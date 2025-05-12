@@ -18,7 +18,7 @@ The database is powered by MySQL and the backend is built using Node.js and Expr
  How to Set Up/Run the Project
 1. Clone the Repository
    bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/Lynnviolet/library-management-system.git
    cd library-management-system
    
 
